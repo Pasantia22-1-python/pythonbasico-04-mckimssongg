@@ -31,4 +31,4 @@ def SayMyName(nombre):
     return ('Hola {}'.format(nombre))
 
 if __name__ == '__main__':
-    print(SayMyNAme('Julio'))
+    print(SayMyNAme('Juan'))
